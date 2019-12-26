@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+netty:
+  port: 8848
+
+my:
+  name:test
+
+custom:
+  mqtt:
+    url: 119.3.24.173
+    port: 1883
+    topic: +/result
+    userName: wpg
+    passWord: admin!@#

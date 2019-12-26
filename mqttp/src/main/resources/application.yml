@@ -1,0 +1,15 @@
+#端口号
+server:
+  port: 16364
+
+spring:
+  application:
+    name: mymq-server
+  mqtt:
+    username: admin
+    password: admin
+    url: tcp://127.0.0.1:1883
+    client:
+      id: mqttId
+    topic: iot/mqtt/swd/SITE1
+    completionTimeout: 3000
