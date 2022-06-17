@@ -55,7 +55,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.45</version>
+            <version>1.2.83</version>
         </dependency>
         <!-- Joda time时间api -->
         <dependency>
@@ -71,13 +71,13 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.49</version>
+            <version>1.2.83</version>
             <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>RELEASE</version>
+            <version>1.2.83</version>
             <scope>compile</scope>
         </dependency>
 
